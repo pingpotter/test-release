@@ -1,4 +1,4 @@
-# Changes in this Release
+**Changes in this Release**
 
 - First Change
 - Second Change
